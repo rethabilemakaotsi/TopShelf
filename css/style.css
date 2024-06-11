@@ -1,0 +1,52 @@
+    margin: 0;
+    padding: 0;
+    }
+
+    body {
+        background-color: black;
+        height: 100vh;
+    }
+
+    .navbar {
+        position: sticky;
+        background-color: black;
+
+    }
+
+    .nav-item a {
+        color: red;
+        font-family: 'Nosifer', sans-serif;
+    }
+
+    .home {
+        background-color: black;
+        height: 100vh;
+    }
+
+    p {
+        color: beige;
+    }
+
+    .banner {
+        margin-top: 200px;
+        font-size: 25px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    span {
+        color: red;
+        font-family: 'Nosifer', sans-serif;
+
+    }
+
+    .img-fluid {
+        margin-top: 100px;
+    }
+
+    .title {
+        color: red;
+        font-family: 'Nosifer', sans-serif;
+        margin-left: 90px;
+        margin-bottom: 100px;
+    }
